@@ -1,0 +1,40 @@
+Summary,Precip Type,ID_Condition
+Breezy and Mostly Cloudy,snow,0
+Windy and Overcast,snow,1
+Drizzle,rain,2
+Breezy and Overcast,rain,3
+Windy and Mostly Cloudy,rain,4
+Breezy and Overcast,snow,5
+Humid and Mostly Cloudy,rain,6
+Dry and Mostly Cloudy,rain,7
+Windy,rain,8
+Mostly Cloudy,rain,9
+Windy and Foggy,rain,10
+Overcast,snow,11
+Partly Cloudy,rain,12
+Foggy,rain,13
+Breezy and Partly Cloudy,rain,14
+Clear,rain,15
+Humid and Overcast,rain,16
+Breezy,rain,17
+Dry,rain,18
+Dry and Partly Cloudy,rain,19
+Windy and Foggy,snow,20
+Mostly Cloudy,snow,21
+Breezy and Foggy,snow,22
+Partly Cloudy,snow,23
+Foggy,snow,24
+Breezy and Mostly Cloudy,rain,25
+Windy and Dry,rain,26
+Windy and Partly Cloudy,rain,27
+Breezy and Foggy,rain,28
+Humid and Partly Cloudy,rain,29
+Breezy,snow,30
+Breezy and Partly Cloudy,snow,31
+Breezy and Dry,rain,32
+Clear,snow,33
+Light Rain,rain,34
+Overcast,rain,35
+Dangerously Windy and Partly Cloudy,rain,36
+Windy and Overcast,rain,37
+Rain,rain,38
